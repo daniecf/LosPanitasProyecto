@@ -142,3 +142,7 @@ Dependencias (deps.py)
 Funciones comunes para inyección de dependencias: por ejemplo, autenticación, roles, obtener el usuario actual, etc.
 
 AUTORES DEL PROYECTO
+Breiner Camilo Contreras Bueno
+Daniel Alexis Celis Ferrer
+Oliver Daniel Villamizar Suarez
+Jorge Sebastian Rolon Marquez
